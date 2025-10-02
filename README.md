@@ -110,3 +110,11 @@ These combinations had multiple accidents but zero fatalities.
 Invest in predictive maintenance for technical reliability.
 
 Strengthen weather monitoring and enforce stricter operational go/no-go rules.
+
+
+
+
+
+**TABLEAU DASHBOARD LINK**
+https://public.tableau.com/authoring/AVIATIONSAFETYINSIGHTS_17594059024800/AVIATIONSAFETYINSIGHTS#1
+
